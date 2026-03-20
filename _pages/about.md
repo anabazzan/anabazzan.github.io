@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ana Bazzan's Homepage"
+title: "Ana Bazzan's Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
