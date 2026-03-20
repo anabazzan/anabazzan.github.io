@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ana L. C. Bazzan homepage"
+title                    : "Ana Bazzan's homepage"
 title_separator          : "-"
 name                     : &name "Ana L. C. Bazzan"
 description              : &description "YAna Bazzan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "anabazzan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ana Bazzan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Retired Professor (UFRGS), Brazil"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "UFRGS"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bazzan.inf@gmail.com" 
 
   # Academic websites
   academia         : # URL
