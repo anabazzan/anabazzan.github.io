@@ -13,9 +13,25 @@ Under construction !
 
 
 
-Site-wide configuration
+Short Vitae
 ------
-bla bla
+I received my PhD in Computer Science in 1997 from the Informatik Fakultät at the Univ. of Karlsruhe (IPR institute) in Karlsruhe, Germany, supported by the Brazilian government (CNPq).
+
+My previous degrees are in Engineering from the Politechnic School (POLI) of the Univ. of São Paulo in São Paulo, Brazil, and MSc. in Computer Science from the Institute of Informatics at the Univ. of Rio Grande do Sul in Porto Alegre.
+
+From 1997 to 1998, I had a postdoc research associate position in the Multi-Agent Systems Laboratory at the University of Massachusetts in Amherst, under supervision of Prof. Victor Lesser. There, I was involved in the research project "Enhancing Survivability with Distributed Coordination" (part of DARPA/ITO's Information Survivability program) on Survavibility, Intrusion Detection, and Diagnosis.
+
+From 1999 on I held various positions at the Institute of Informatics here at UFRGS (Universidade Federal do Rio Grande do Sul, which has been consistently ranked among the top 5 universities in Brazil): assistant professor (until 2006), associate professor (until 2016) and full professor (until 2024, when I retired. At UFRGS I led the research group on Artificial Intelligence.
+
+Currently, I am a visiting professor at the graduate program in computer science (PPGC) at UFRGS. 
+
+My research interests also include: Use of Game-Theoretic Paradigms for Coordination of Agents (Minority Game, Iterated Prisoner's Dilemma, Public Goods Game, Congestion Games, etc.), Learning in MAS, Agent-based Simulation, Artificial Societies, Complex Systems, Traffic Simulation and Control, Distributed Machine Learning, and Swarm Intelligence
+
+
+
+From April 2006 to March 2007 I had an appointment at the University of Würzburg (Germany), in the Lehrstühl VI of Prof. F. Puppe, as a fellow of the Alexander von Humboldt Stiftung. I was again a fellow from this foundation in 2014 and 2018 (Humboldt University, Berlin and Technical University Berlin). In 2021-22 I spent one year as fellow of the Käte Hamburguer Kolleg at the RWTH (Technical University Aachen).
+
+I served as general co-chair of AAMAS 2014, the premier conference on autonomous agents and multiagent systems, held in Paris. 
 
 Create content & metadata
 ------
