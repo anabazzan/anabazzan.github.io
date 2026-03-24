@@ -25,17 +25,17 @@ From 1999 on I held various positions at the Institute of Informatics here at UF
 
 Currently, I am a visiting professor at the graduate program in computer science ([PPGC] (https://www.inf.ufrgs.br/ppgc/en)) at UFRGS. 
 
-My research interests also include: Use of Game-Theoretic Paradigms for Coordination of Agents (Minority Game, Iterated Prisoner's Dilemma, Public Goods Game, Congestion Games, etc.), Learning in MAS, Agent-based Simulation, Artificial Societies, Complex Systems, Traffic Simulation and Control, Distributed Machine Learning, and Swarm Intelligence
+My research interests include: multiagent systems (MAS) and reinforcement learning (RL); applications of AI and RL in urban mobility, traffic, transportation;  game-theoretic paradigms for coordination of agents (Minority Game, Iterated Prisoner's Dilemma, Public Goods Game, Congestion Games, etc.); agent-based modeling and simulation; complex systems; network science; applications of network science and AI in humanities (in particular, History).
 
 
-
-From April 2006 to March 2007 I had an appointment at the University of Würzburg (Germany), in the Lehrstühl VI of Prof. F. Puppe, as a fellow of the Alexander von Humboldt Stiftung. I was again a fellow from this foundation in 2014 and 2018 (Humboldt University, Berlin and Technical University Berlin). In 2021-22 I spent one year as fellow of the Käte Hamburguer Kolleg at the RWTH (Technical University Aachen).
-
-I served as general co-chair of AAMAS 2014, the premier conference on autonomous agents and multiagent systems, held in Paris. 
-
-Create content & metadata
+Awards and Facts
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* From April 2006 to March 2007 I had an appointment at the University of Würzburg (Germany), in the Lehrstühl VI of Prof. F. Puppe, as a fellow of the Alexander von Humboldt Stiftung. I was again a fellow from this foundation in 2014 and 2018 (Humboldt University, Berlin and Technical University Berlin). In 2021-22 I spent one year as fellow of the Käte Hamburguer Kolleg at the RWTH (Technical University Aachen).
+* I served as general co-chair of AAMAS 2014, the premier conference on autonomous agents and multiagent systems, held in Paris.
+* Listed among the top 30 Brazilian researchers in computer science
+* listed among the top 2% ...
+
+
 
 **Markdown generator**
 
