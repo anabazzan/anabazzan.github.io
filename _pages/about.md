@@ -21,9 +21,9 @@ My previous degrees are in Engineering from the Politechnic School (POLI) of the
 
 From 1997 to 1998, I had a postdoc research associate position in the Multi-Agent Systems Laboratory at the University of Massachusetts in Amherst, under supervision of Prof. Victor Lesser. There, I was involved in the research project "Enhancing Survivability with Distributed Coordination" (part of DARPA/ITO's Information Survivability program) on Survavibility, Intrusion Detection, and Diagnosis.
 
-From 1999 on I held various positions at the Institute of Informatics here at UFRGS (Universidade Federal do Rio Grande do Sul, which has been consistently ranked among the top 5 universities in Brazil): assistant professor (until 2006), associate professor (until 2016) and full professor (until 2024, when I retired. At UFRGS I led the research group on Artificial Intelligence.
+From 1999 on I held various positions at the Institute of Informatics here at UFRGS (Universidade Federal do Rio Grande do Sul, which has been consistently ranked among the top 5 universities in Brazil): assistant professor (until 2006), associate professor (until 2016) and full professor (until 2024, when I retired. At UFRGS I also led the research group on Artificial Intelligence.
 
-Currently, I am a visiting professor at the graduate program in computer science (PPGC) at UFRGS. 
+Currently, I am a visiting professor at the graduate program in computer science ([PPGC] (https://www.inf.ufrgs.br/ppgc/en)) at UFRGS. 
 
 My research interests also include: Use of Game-Theoretic Paradigms for Coordination of Agents (Minority Game, Iterated Prisoner's Dilemma, Public Goods Game, Congestion Games, etc.), Learning in MAS, Agent-based Simulation, Artificial Societies, Complex Systems, Traffic Simulation and Control, Distributed Machine Learning, and Swarm Intelligence
 
