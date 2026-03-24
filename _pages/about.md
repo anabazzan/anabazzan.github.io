@@ -30,10 +30,14 @@ My research interests include: multiagent systems (MAS) and reinforcement learni
 
 Awards and Facts
 ------
-* From April 2006 to March 2007 I had an appointment at the University of Würzburg (Germany), in the Lehrstühl VI of Prof. F. Puppe, as a fellow of the Alexander von Humboldt Stiftung. I was again a fellow from this foundation in 2014 and 2018 (Humboldt University, Berlin and Technical University Berlin). In 2021-22 I spent one year as fellow of the Käte Hamburguer Kolleg at the RWTH (Technical University Aachen).
+* From April 2006 to March 2007 I had an appointment at the University of Würzburg (Germany) as a fellow of the Alexander von Humboldt Stiftung. I was again a fellow from this foundation in 2014 and 2018 (Humboldt University, Berlin and Technical University Berlin).
+* In 2021-22 I spent one year as fellow of the Käte Hamburguer Kolleg at the RWTH (Technical University Aachen).
+* In 2024-25 I spent 6 months as fellow of the CAIS Kolleg (Bochum).
 * I served as general co-chair of AAMAS 2014, the premier conference on autonomous agents and multiagent systems, held in Paris.
-* Listed among the top 30 Brazilian researchers in computer science
-* listed among the top 2% ...
+* I was a keynote speaker at AAMAS 2017
+* I served as area chair, senior program chair or in the program committee of top-tier AI conferences (IJCAI, ECAI, AAMAS), among many others
+* Listed among the [top 30 Brazilian researchers in computer science](https://research.com/scientists-rankings/computer-science/br)
+* listed among the [top 2% scientists with the most impact in the world](https://topscinet.com/scientist_profile/Bazzan,%20Ana%20L.C./1996/?stype=career_data)
 
 
 
