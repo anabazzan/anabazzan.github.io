@@ -30,7 +30,7 @@ My research interests include: multiagent systems (MAS) and reinforcement learni
 Publications
 ------
 Here is my [CV Lattes](https://lattes.cnpq.br/0978837964647017)
-You can also find my publications at [Google Scholar]([http](https://scholar.google.com/citations?hl=en&authuser=1&user=K6Z40w0AAAAJ)) or see them [here]()
+You can also find my publications at [Google Scholar]([http](https://scholar.google.com/citations?hl=en&authuser=1&user=K6Z40w0AAAAJ)) or see them [here](https://anabazzan.github.io/publications/)
 
 
 Awards and Facts
