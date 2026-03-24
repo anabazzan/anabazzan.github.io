@@ -27,6 +27,11 @@ Currently, I am a visiting professor at the graduate program in computer science
 
 My research interests include: multiagent systems (MAS) and reinforcement learning (RL); applications of AI and RL in urban mobility, traffic, transportation;  game-theoretic paradigms for coordination of agents (Minority Game, Iterated Prisoner's Dilemma, Public Goods Game, Congestion Games, etc.); agent-based modeling and simulation; complex systems; network science; applications of network science and AI in humanities (in particular, History).
 
+Publications
+------
+Here is my [CV Lattes](https://lattes.cnpq.br/0978837964647017)
+You can also find my publications at [Google Scholar](http) or see them [here]()
+
 
 Awards and Facts
 ------
