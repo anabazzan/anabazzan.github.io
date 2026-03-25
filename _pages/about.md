@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Under construction !
-====================
+#Under construction !
+#====================
 
 
 
@@ -42,6 +42,6 @@ Awards and Facts
 * I was a keynote speaker at AAMAS 2017
 * I served as area chair, senior program chair or in the program committee of top-tier AI conferences (IJCAI, ECAI, AAMAS), among many others
 * Listed among the [top 30 Brazilian researchers in computer science](https://research.com/scientists-rankings/computer-science/br)
-* listed among the [top 2% scientists with the most impact in the world](https://topscinet.com/scientist_profile/Bazzan,%20Ana%20L.C./1996/?stype=career_data)
+* Listed among the [top 2% scientists with the most impact in the world](https://topscinet.com/scientist_profile/Bazzan,%20Ana%20L.C./1996/?stype=career_data)
 
 
