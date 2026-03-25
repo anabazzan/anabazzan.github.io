@@ -1,3 +1,8 @@
+---
+layout: none
+---
+2026
+====
 Alegre LN, Bazzan ALC, Roijers DM, et al (2026) Generalized policy
 improvement for efficient and robust multi-objective reinforcement
 learning. Autonomous Agents and Multiagent Systems (JAAMAS)
