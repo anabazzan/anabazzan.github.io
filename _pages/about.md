@@ -7,11 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-#Under construction !
-#====================
-
-
-
 
 Short Vitae
 ------
