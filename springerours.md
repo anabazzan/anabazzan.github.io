@@ -1176,9 +1176,6 @@ congestion](https://www.inf.ufrgs.br/maslab/pergamus/pubs/Bazzan+2009.pdf.zip).
 In: Proceedings of the 35th latin-american informatics conference, CLEI.
 Pelotas, Brazil
 
-Costa FB da (2009) Sistema de distribuição de rotas para veículos
-autônomos
-
 Ferreira PR Jr., Bazzan ALC (2009) [Distributed task scheduling using a
 swarm intelligence
 approach](http://www.inf.ufrgs.br/maslab/pergamus/pubs/st08_03.pdf). In:
@@ -1195,10 +1192,7 @@ control: Effects of using shared information. In: Bazzan ALC, Klügl F
 (eds) Multi-agent systems for traffic and transportation. IGI Global,
 Hershey, PA, pp 307–321
 
-Santos CT dos, Bazzan ALC, Lemke N (2009a) Automatic classification of
-enzyme family in protein annotation. In: Guimarães KS, Panchenko A,
-Przytycka TM (eds) Proc. Of the brazilian symposium on bioinformatics
-2009. Springer, Berlin Heidelberg, pp 86–96
+Santos CT dos, Bazzan ALC, Lemke N (2009a) Automatic classification of enzyme family in protein annotation. In: Guimarães KS, Panchenko A, Przytycka TM (eds) Proc. Of the brazilian symposium on bioinformatics 2009. Springer, Berlin Heidelberg, pp 86–96
 
 Santos DS dos, Bazzan ALC (2009b) [Distributed clustering: An
 application on
