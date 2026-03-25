@@ -181,11 +181,6 @@ In: Proceedings of the 20th international conference on autonomous
 agents and multiagent systems (AAMAS). International Foundation for
 Autonomous Agents and Multiagent Systems, Richland, SC, pp 97–105
 
-Antes T de O (2021) [Organização hierárquica com agregação de estados em
-aprendizado multiagente: Uma aplicação em controle
-semafórico](http://hdl.handle.net/10183/223664). Master’s thesis,
-Instituto de Informática, UFRGS
-
 Bazzan ALC (2021a) [Comparing the centralities of core characters in
 three
 sitcoms](http://www.fsma.edu.br/si/edicao27/Download_FSMA_SI_2021_1_Principal_5_en.html).
@@ -195,11 +190,6 @@ Bazzan ALC (2021b) [Contribuições de aprendizado por reforço em escolha
 de rota e controle
 semafórico](https://www.scielo.br/j/ea/i/2021.v35n101/). Estudos
 Avançados 35:95–110
-
-Huanca-Anquise CA (2021) [Multi-objective reinforcement learning methods
-for action selection: Dealing with multiple objectives and
-non-stationarity](http://hdl.handle.net/10183/231836). Master’s thesis,
-Instituto de Informática, UFRGS
 
 Klügl F, Bazzan ALC (2021b) Accelerating route choice learning with
 experience sharing in a commuting scenario: An agent-based approach. AI
@@ -283,9 +273,6 @@ Ramos G de O, Da Silva BC, Rǎdulescu R, et al (2020b) Toll-based
 reinforcement learning for efficient equilibria in route choice. The
 Knowledge Engineering Review 35:E8.
 <https://doi.org/10.1017/S0269888920000119>
-
-Redwan CSZ (2020) Caracterização de redes de transporte por meio de uma
-métrica de entropia. Master’s thesis, UFRGS
 
 Redwan CSZ, Bazzan ALC (2020) HOW HARD IS FOR AGENTS TO LEARN THE USER
 EQUILIBRIUM? CHARACTERIZING TRAFFIC NETWORKS BY MEANS OF ENTROPY.
@@ -398,11 +385,6 @@ Ramos G de O (2018) [Regret minimisation and system-efficiency in route
 choice](http://hdl.handle.net/10183/178665). PhD thesis, Universidade
 Federal do Rio Grande do Sul
 
-Chamby-Diaz JC (2018) [An incremental Gaussian mixture network for data
-stream classification in non-stationary
-environments](http://hdl.handle.net/10183/174484). Master’s thesis,
-Universidade Federal do Rio Grande do Sul
-
 Bazzan ALC (2018a) [I will be there for you: Six friends in a
 clique](https://arxiv.org/abs/1804.04408)
 
@@ -417,11 +399,6 @@ Grunitzki R (2018) [A flexible approach for optimal rewards in
 multi-agent reinforcement learning
 problems](http://hdl.handle.net/10183/188230). PhD thesis, Universidade
 Federal do Rio Grande do Sul
-
-Lemos LL (2018) [Co-aprendizado entre motoristas e controladores
-semafóricos em simulação microscópica de
-trânsito](http://hdl.handle.net/10183/182021). Master’s thesis,
-Universidade Federal do Rio Grande do Sul (UFRGS)
 
 Lemos LL, Bazzan ALC, Pasin M (2018) [Co-adaptive reinforcement learning
 in microscopic traffic
@@ -522,10 +499,6 @@ Santos F, Nunes I, Bazzan ALC (2017b) A case study of the development of
 an agent-based simulation in the traffic signal control domain using an
 MDD approach. In: Proceedings of the 5th international workshop on
 engineering multi-agent systems (EMAS 2017). São Paulo, pp 97–112
-
-Alves M (2017) [Social training: Aprendizado semi supervisionado
-utilizando funções de escolha
-social](http://hdl.handle.net/10183/169887). Master’s thesis, UFRGS
 
 Alves M, Bazzan ALC, Recamonde-Mendoza M (2017) [Social-training:
 Ensemble learning with voting aggregation for semi-supervised
@@ -646,10 +619,6 @@ Abdoos M, Mozayani N, Bazzan ALC (2015) Towards reinforcement learning
 for holonic multi-agent systems. Intell Data Anal 19:211–232.
 <https://doi.org/10.3233/IDA-150714>
 
-Batista R de A (2015) [Combinando centralidade de intermediação e
-demanda de tráfego para identificação de pontos centrais em redes
-viárias](http://hdl.handle.net/10183/129878). Master’s thesis, UFRGS
-
 Batista R de A, Bazzan ALC (2015) [Identification of central points in
 road networks using betweenness centrality combined with traffic
 demand](http://www.gelbukh.com/polibits/2015_52/). Polibits 52:85–91
@@ -703,11 +672,6 @@ Souza M de, Koster A, Bazzan ALC (2015) Technical description of an
 agent-based model for testing the effect of communication, trust and
 belief revision methods in a collaborative traffic scenario
 
-Souza M (2015) [Um método biobjetivo de alocaćão de tráfego para
-veículos convencionais e elétricos](http://hdl.handle.net/10183/130509).
-Master’s thesis, Instituto de Informática, Universidade Federal do Rio
-Grande do Sul
-
 Xiong Y, Gan J, An B, et al (2015) [Optimal electric vehicle charging
 station placement](http://ijcai.org/Proceedings/15/Papers/377.pdf). In:
 Yang Q, Wooldridge M (eds) Proceedings of the twenty-fourth
@@ -757,11 +721,6 @@ A genetic algorithm approach to the traffic assignment
 problem](http://dx.doi.org/10.1145/2598394.2598419). In: Proceedings of
 the 16th annual conference on genetic and evolutionary computation
 (companion). ACM, pp 105–106
-
-Grunitzki R (2014) [Aprendizado por reforço multiagente: Uma avaliação
-de diferentes mecanismos de recompensa para o problema de aprendizado de
-rotas](http://hdl.handle.net/10183/107123). Master’s thesis, Instituto
-de Informática, Universidade Federal do Rio Grande do Sul
 
 Grunitzki R, Ramos G de O, Bazzan ALC (2014b) [Uma ferramenta para
 alocação de tráfego e aprendizagem de rotas em redes
@@ -864,11 +823,6 @@ paper](http://www.inf.ufrgs.br/maslab/pergamus/pubs/epicenter2013cbr.pdf).
 In: Anais da XI competição brasileira de robótica (CBR 2013). Fortaleza,
 CE, Brazil, pp 1–6
 
-Epstein D (2013) [Um algoritmo distribuído para resolução do problema de
-geração de estruturas de coalizão com presena̧ de
-externalidades](http://hdl.handle.net/10183/103391). Master’s thesis,
-Instituto de Informática, Universidade Federal do Rio Grande do Sul
-
 Epstein D, Bazzan ALC (2013a) [Distributed coalition structure
 generation with positive and negative
 externalities](https://doi.org/10.1007/978-3-642-40669-0_35). In:
@@ -915,22 +869,14 @@ grids](https://doi.org/10.1109/SASO.2013.12). In: 2013 IEEE 7th
 international conference on self-adaptive and self-organizing systems
 (SASO). IEEE, Philadelphia, USA, pp 11–20
 
-Ramos G de O (2013) [Redução do espaço de busca de estruturas de
-coalizão a partir de informações sobre o domínio: Uma aplicação em smart
-grids](http://hdl.handle.net/10183/71958). Master’s thesis, Instituto de
-Informática, Universidade Federal do Rio Grande do Sul
-
 Tavares AR, Bazzan ALC (2013) [Networked malicious agents in
 transportation systems: A simulation
 study](https://www.inf.ufrgs.br/maslab/pergamus/pubs/TavaresBazzan2013-wein.pdf).
 In: The fifth international workshop on emergent intelligence on
 networked agents (WEIN)
 
-Tavares AR (2013) [Uma abordagem baseada em agentes para simulação de
-tarifação viária e comunicação
-inter-veicular](http://hdl.handle.net/10183/79589). Master’s thesis,
-Instituto de Informática, Universidade Federal do Rio Grande do Sul
-
+2012
+====
 Amarante M de B do, Bazzan ALC (2012a) [Um processo para avaliação de
 balanceamento de carga em redes de transporte veicular utilizando
 adaptação
@@ -943,11 +889,6 @@ agent-based tools for traffic modeling, simulation, and control: How to
 make cities
 smarter](https://www.inf.ufrgs.br/maslab/pergamus/pubs/Bazzan2012sbsi.pdf).
 In: Braz. Symp. On information systems (SBSI). SBC, pp 67–72
-
-Amarante M de B do (2012) [Uma abordagem baseada em agentes para
-avaliação do balanceamento de carga em redes veiculares: Dois estudos de
-caso](http://hdl.handle.net/10183/49744). Master’s thesis, Instituto de
-Informática, UFRGS
 
 Amarante M de B do, Bazzan ALC (2012b) [Agent-based simulation of
 mobility in real-world transportation networks: Effects of acquiring
@@ -1082,6 +1023,8 @@ scenario](https://www.inf.ufrgs.br/maslab/pergamus/pubs/TavaresBazzan2012-wesaac
 In: VI workshop-escola de sistemas de agentes, seus ambientes e
 aplicações (WESAAC). pp 141–153
 
+2011
+====
 Abdoos M, Mozayani N, Bazzan ALC (2011) [Traffic light control in
 non-stationary environments based on multi agent
 Q-learning](http://dx.doi.org/10.1109/ITSC.2011.6083114). In: Proc. Of
@@ -1163,6 +1106,8 @@ Santos F dos, Bazzan ALC (2011) Towards efficient multiagent task
 allocation in the RoboCup rescue: A biologically-inspired approach.
 Autonomous Agents and Multi-Agent Systems 22:465–486
 
+2010
+====
 Ferreira PR Jr., Santos F dos, Bazzan ALC, et al (2010) [Robocup rescue
 as multiagent task allocation among teams: Experiments with task
 interdependencies](http://www.springerlink.com/content/c6000r61011t4k26/).
@@ -1231,10 +1176,8 @@ coding](http://dx.doi.org/10.1007/978-3-642-16138-4_16). In: Costa ACR,
 Vicari RM, Tonidandel F (eds) Advances in artificial intelligence – SBIA
 2010. Springer, pp 153–162
 
-Waskow SJ (2010) [Aprendizado por reforço utilizando tile coding em
-cenários multiagentes](http://hdl.handle.net/10183/28349). Master’s
-thesis, Instituto de Informática, UFRGS
-
+2009
+====
 Santos F dos, Bazzan ALC (2009a) [EXtreme-ants: Ant based algorithm for
 task allocation in extreme
 teams](https://www.inf.ufrgs.br/maslab/pergamus/pubs/Santos&Bazzan2009optmas.pdf).
@@ -1301,10 +1244,6 @@ bioinformatics](https://www.inf.ufrgs.br/maslab/pergamus/pubs/Santos&Bazzan2009.
 In: Proceedings of the 35th latin-american informatics conference, CLEI.
 Pelotas, Brazil
 
-Santos DS dos (2009a) [<span class="nocase">Bee clustering</span>: Um
-algoritmo para agrupamento de dados inspirado em inteligência de
-enxames](http://hdl.handle.net/10183/18249). Master’s thesis, PPGC-UFRGS
-
 Santos DS dos, Bazzan ALC (2009c) [A biologically-inspired distributed
 clustering
 algorithm](https://www.inf.ufrgs.br/maslab/pergamus/pubs/BIDCA.pdf.zip).
@@ -1321,11 +1260,6 @@ Santos DS dos, Oliveira D de, Bazzan ALC (2009b) [A multiagent,
 multiobjective clustering
 algorithm](http://dx.doi.org/10.1007/978-1-4419-0522-2_16). In: Cao L
 (ed) Data mining and multiagent integration. Springer
-
-Santos F dos (2009b) [EXtreme-ants: Algoritmo inspirado em formigas para
-alocação de tarefas em extreme
-teams](http://hdl.handle.net/10183/17041). Master’s thesis, Instituto de
-Informática, Universidade Federal do Rio Grande do Sul
 
 Santos F dos, Bazzan ALC (2009e) Alocação eficiente de tarefas em
 sistemas multiagente dinâmicos e de larga escala. In: Anais do VII
@@ -1349,6 +1283,8 @@ tasks](https://www.inf.ufrgs.br/maslab/pergamus/pubs/Waskow&Bazzan2009.pdf.zip).
 In: Proceedings of the 35th latin-american informatics conference, CLEI.
 Pelotas, Brazil
 
+2008
+====
 Bazzan ALC, Dahmen SR, Baraviera A (2008a) [Simulating the effects of
 sanction for the emergence of cooperation in a public goods
 game](https://www.ifaamas.org/Proceedings/aamas08/proceedings/pdf/paper/AAMAS08_0636.pdf).
@@ -1407,6 +1343,8 @@ recommendation](https://www.inf.ufrgs.br/maslab/pergamus/pubs/Lorenzi+2008SBIA.z
 In: Zaverucha G (ed) Proceedings of 19th brazilian symposium on
 artificial intelligence. Springer, pp 103–112
 
+2007
+====
 Bazzan ALC, Oliveira D de, Klügl F, Nagel K (2007a) [Effects of
 co-evolution in a complex traffic
 network](https://www.inf.ufrgs.br/maslab/pergamus/pubs/alagBazzanEtAl.pdf).
@@ -1463,11 +1401,6 @@ rescue](https://www.inf.ufrgs.br/maslab/pergamus/pubs/BoffoEtAl2007eumas.pdf.gz)
 In: Dastani M, Bordini RH (eds) Proceedings of the 5th european workshop
 on multiagent systems. pp 537–548
 
-Junges R (2007) [Comparação de algoritmos para otimização de restrições
-distribuídas em um cenário de controle
-semafórico](http://hdl.handle.net/10183/16123). Master’s thesis,
-Instituto de Informática, UFRGS
-
 Junges R, Bazzan ALC (2007) [Modelling synchronization of traffic lights
 as a
 DCOP](https://www.inf.ufrgs.br/maslab/pergamus/pubs/JungesBazzan2007eumas.pdf.gz).
@@ -1504,13 +1437,11 @@ formation](http://www.inf.ufrgs.br/maslab/pergamus/pubs/enia2007OliveiraBazzan.z
 In: Castro Dutra I de, Choren R, Oliveira CMGM de (eds) Anais do VI
 encontro nacional de inteligência artificial (ENIA). SBC, pp 1003–1112
 
-Silva BC da (2007) [Aprendizado por reforço em ambientes
-não-estacionários](http://hdl.handle.net/10183/111907). Master’s thesis,
-Instituto de Informática, Universidade Federal do Rio Grande do Sul
-
 Wainer J, Ferreira PR Jr., Constantino ER (2007) Scheduling meetings
 through multi-agent negotiations. Decision Support Systems 44:285–297
 
+2006
+====
 Bazzan ALC, Junges R (2006a) [Traffic network equilibrium using
 congestion tolls: A case
 study](https://www.inf.ufrgs.br/~bazzan/downloads/WS28ATT.pdf). In:
@@ -1627,10 +1558,8 @@ Silva R, Bazzan ALC, Baraviera A, Dahmen SR (2006g) Emerging collective
 behavior of financial dynamics in a public investment game. Physica A
 371:610–626
 
-Toyama MC (2006) [Uma abordagem multiagente para dinâmica de
-pedestres](http://hdl.handle.net/10183/8125). Master’s thesis, Instituto
-de Informática, UFRGS
-
+2005
+====
 Bazzan ALC (2005) [A distributed approach for coordination of traffic
 signal
 agents](https://www.inf.ufrgs.br/~bazzan/downloads/jaamas10_2_131_164.pdf.gz).
@@ -1688,19 +1617,10 @@ workshop multi-agent information retrieval and recommender systems -
 nineteenth international conference on artificial intelligence (IJCAI
 2005). pp 23–27
 
-Nascimento LV do (2005) [Um sistema baseado em agentes para re-anotação
-de genomas](http://hdl.handle.net/10183/10418). Master’s thesis,
-Instituto de Informática, UFRGS
-
 Nascimento LV, Bazzan ALC (2005) [An agent-based system for
 re-annotation of
 genomes](http://www.funpecrp.com.br/gmr/year2005/vol3-4/wob08_abstract.htm).
 Genet Mol Res 4:571–580
-
-Oliveira D de (2005) [Um estudo de coordenação dinâmica de agentes
-aplicado ao gerenciamento de tráfego veicular
-urbano](http://hdl.handle.net/10183/6224). Master’s thesis, Instituto de
-Informática, Universidade Federal do Rio Grande do Sul
 
 Oliveira D de, Bazzan ALC, Ferreira PR Jr., Silva BC (2005a)
 [Coordenação dinâmica de semáforos: Dois casos de
@@ -1737,15 +1657,6 @@ collective behavior in a simple artificial financial market. In: Dignum
 F, Dignum V, Koenig S, et al. (eds) Proceedings of the fourth
 international joint conference on autonomous agents and multiagent
 systems. ACM, pp 313–319
-
-Almeida LB de (2004) [Uma proposta de modelo fisiológico de
-emoções](http://hdl.handle.net/10183/4271). Master’s thesis, Instituto
-de Informática, UFRGS
-
-Andriotti GK (2004) [Modelagem de motoristas e cenários de escolha de
-rota em simulações de tráfego veicular
-urbano](http://hdl.handle.net/10183/6608). Master’s thesis, Instituto de
-Informática, UFRGS
 
 Batista GEAPA, Bazzan ALC, Monard MC (2004a) Balancing training data for
 automated annotation of keywords: A case study. Revista Tecnologia da
@@ -1811,10 +1722,6 @@ Toyama MC (2004) Estudo sobre modelos de autômatos celulares para
 simulação de movimentos de pedestres: Trabalho individual i.
 Universidade Federal do Rio Grande do Sul
 
-Adamatti DF (2003) [AFRODITE: Ambiente de simulação baseado em agentes
-com emoções](http://hdl.handle.net/10183/2706). Master’s thesis,
-Instituto de Informática, UFRGS
-
 Bazzan ALC, Cavalheiro AP (2003) [Influence of social attachment in a
 small-world network of agents playing the iterated prisoners
 dilemma](https://www.inf.ufrgs.br/~bazzan/swBazzan.ps.gz). In: Parsons
@@ -1852,10 +1759,6 @@ insetos sociais e sua aplicação para organizaç ao de sistemas
 multiagentes](https://www.inf.ufrgs.br/maslab/pergamus/pubs/RelatorioProjPesqFinal.zip).
 Instituto de Informática, UFRGS
 
-Schroeder LF (2003) Sistema baseado em agentes para descoberta de
-conhecimento: Uma aplicação em bioinformática. Master’s thesis,
-Instituto de Informática, UFRGS
-
 Andriotti GK, Bazzan ALC (2002) An object-oriented microscopic traffic
 simulator. In: Proceedings of the 28th latin-american conference on
 informatics, CLEI. Montevideo, Uruguay
@@ -1883,11 +1786,6 @@ scenario](http://portal.acm.org/citation.cfm?id=544741.544795). In:
 Proceedings of the first international joint conference on autonomous
 agents and multi-agent systems (AAMAS). ACM Press, Bologna, Italy, pp
 217–218
-
-Lindemann V (2002) [Utilização de uma ferramenta independente do domínio
-para diagnóstico do comportamento do aluno em atividades de ensino a
-distância](http://hdl.handle.net/10183/2471). Master’s thesis, Instituto
-de Informática, UFRGS
 
 Rossetti RJF, Bordini RH, Bazzan ALC, et al (2002) [Using BDI agents to
 improve driver modelling in a commuter
@@ -1921,10 +1819,6 @@ conference on autonomous agents. ACM Press, Montreal, Canada, pp 292–299
 Bazzan ALC (2001) Coordenação de agentes com uso de técnicas de teoria
 dos jogos. In: Jornada de atualização em inteligência artificial. SBC,
 Fortaleza, pp 3–43
-
-Sander C (2001) Combinando técnicas de data warehousing e mineração de
-dados em avaliações imobiliárias. Master’s thesis, Instituto de
-Informática, UFRGS
 
 Bazzan ALC, Bordini RH (2000) Evolving agents with moral sentiments in
 an iterated prisoners dilemma exercise. In: Game theoretic and decision
