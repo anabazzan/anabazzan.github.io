@@ -11,19 +11,23 @@ Bazzan ALC (2026) Artificial intelligence in transportation: A meta
 review. SN Computer Science 7:
 <https://doi.org/10.1007/s42979-025-04530-z>
 
+2025
+====
+
 Alegre LN, Bazzan ALC, Barreto A, da Silva BC (2025) Constructing an
 optimal behavior basis for the option keyboard. In: Proceedings of the
 thirty-ninth conference on neural information processing systems
 (NeurIPS)
 
 Bazzan ALC (2025) [Uma visão em rede dos primórdios da comunidade
-acadêmica em informática e computação no Brasil:  
-uma proposta de elaboração](http://hdl.handle.net/10183/300612)
+acadêmica em informática e computação no Brasil: uma proposta de elaboração](http://hdl.handle.net/10183/300612)
 
 Dinkelberg A, Santana BS, Bazzan ALC (2025) Endorsement networks in the
 2022 Brazilian presidential elections: A case study on twitter data. J
 Braz Comput Soc 31:219–228. <https://doi.org/10.5753/JBCS.2025.3747>
 
+2024
+====
 Almeida VN, Alegre LN, Bazzan ALC (2024) Knowledge transfer in
 multi-objective multi-agent reinforcement learning via generalized
 policy improvement. Computer Science and Information Systems 21:335–362.
