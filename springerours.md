@@ -1140,11 +1140,7 @@ coalitions](https://www.ncc.furg.br/bwss2010/downloads/74437_1.pdf). In:
 Proc. Of the 2nd brazilian workshop on social simulation. SBC, S.
 Bernardo do Campo
 
-Waskow SJ, Bazzan ALC (2010) [Improving space representation in
-multiagent learning via tile
-coding](http://dx.doi.org/10.1007/978-3-642-16138-4_16). In: Costa ACR,
-Vicari RM, Tonidandel F (eds) Advances in artificial intelligence – SBIA
-2010. Springer, pp 153–162
+Waskow SJ, Bazzan ALC (2010) [Improving space representation in multiagent learning via tile coding](http://dx.doi.org/10.1007/978-3-642-16138-4_16). In: Costa ACR, Vicari RM, Tonidandel F (eds) Advances in artificial intelligence – SBIA 2010. Springer, pp 153–162
 
 2009
 ====
@@ -1386,11 +1382,6 @@ Lorenzi F, Santos DS dos, Oliveira D de, Bazzan ALC (2007c) Task
 allocation in case-based recommender systems: A swarm intelligence
 approach. In: Lin H (ed) Architectural design of multi-agent systems.
 Information Science Reference, pp 268–279
-
-Oliveira D de (2007) [Towards joint learning in multiagent systems
-through opportunistic
-coordination](https://www.inf.ufrgs.br/maslab/pergamus/pubs/propostaDenise.pdf).
-Universidade Federal do Rio Grande do Sul - UFRGS
 
 Oliveira D de, Bazzan ALC (2007) [Swarm intelligence applied to traffic
 lights group
