@@ -12,7 +12,7 @@ author_profile: true
  
 {% assign pubs_page = site.pages | where: "name", "abntours.md" | first %}
 
-{{ pubs_page.content }}
+{{ pubs_page.content | markdownify }}
  
  
 <!-- {% include base_path %} --> 
