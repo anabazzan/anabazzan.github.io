@@ -1,9 +1,3 @@
----
-layout: none
----
-
-2026
-====
 Alegre LN, Bazzan ALC, Roijers DM, et al (2026) Generalized policy
 improvement for efficient and robust multi-objective reinforcement
 learning. Autonomous Agents and Multiagent Systems (JAAMAS)
@@ -11,9 +5,6 @@ learning. Autonomous Agents and Multiagent Systems (JAAMAS)
 Bazzan ALC (2026) Artificial intelligence in transportation: A meta
 review. SN Computer Science 7:
 <https://doi.org/10.1007/s42979-025-04530-z>
-
-2025
-====
 
 Alegre LN, Bazzan ALC, Barreto A, da Silva BC (2025) Constructing an
 optimal behavior basis for the option keyboard. In: Proceedings of the
@@ -41,7 +32,7 @@ Management 15:186–195. <https://doi.org/10.5753/jidm.2024.3328>
 Bybordi A, DiCicco M, Raja A, Bazzan ALC (2024) CHIDYN: A
 clustering-based hierarchical approach for dynamic traffic assignment.
 Transportation Research Procedia 78:63–70.
-https://doi.org/<https://doi.org/10.1016/j.trpro.2024.02.009>
+<https://doi.org/10.1016/j.trpro.2024.02.009>
 
 Gobbi HU, Santos GD, Bazzan ALC (2024) Comparing reinforcement learning
 algorithms for a trip building task: A multi-objective approach using
@@ -128,7 +119,7 @@ of the x symposium on knowledge discovery, mining and learning (KDMiLe
 Noaeen M, Naik A, Goodman L, et al (2022) Reinforcement learning in
 urban network traffic signal control: A systematic literature review.
 Expert Systems with Applications 199:116830.
-<https://doi.org/doi.org/10.1016/j.eswa.2022.116830>
+<https://doi.org/10.1016/j.eswa.2022.116830>
 
 Ribeiro MVL, Samatelo JLA, Bazzan ALC (2022) A new microscopic approach
 to traffic flow classification using a convolutional neural network
@@ -152,7 +143,7 @@ networks
 Shynkar Y, Raja A, Bazzan ALC, Marinov M (2022) Multiagent meta-level
 control for adaptive traffic systems: A case study. Transportation
 Research Procedia 62:236–244.
-<https://doi.org/doi.org/10.1016/j.trpro.2022.02.030>
+<https://doi.org/10.1016/j.trpro.2022.02.030>
 
 Alegre LN, Bazzan ALC, Silva BC da (2021a) Quantifying the impact of
 non-stationarity in reinforcement learning-based traffic signal control.
@@ -165,7 +156,7 @@ Commun 34:105–119. <https://doi.org/10.3233/AIC-201582>
 Abdoos M, Bazzan ALC (2021) Hierarchical traffic signal optimization
 using reinforcement learning and traffic prediction with long-short term
 memory. Expert Systems with Applications 114580.
-https://doi.org/<https://doi.org/10.1016/j.eswa.2021.114580>
+<https://doi.org/10.1016/j.eswa.2021.114580>
 
 Alegre LN, Bazzan ALC, Silva BC da (2021b) [Minimum-delay adaptation in
 non-stationary reinforcement learning via online high-confidence
@@ -1105,8 +1096,7 @@ systems (ITSC). IEEE Computer Society, Washington, DC, USA, pp 890–895
 Lorenzi F, Bazzan ALC, Abel M, Ricci F (2011) Improving recommendations
 through an assumption-based multiagent approach: An application in the
 tourism domain. Expert Systems with Applications 38:14703–14714.
-[https://doi.org/DOI:
-10.1016/j.eswa.2011.05.010](https://doi.org/DOI: 10.1016/j.eswa.2011.05.010)
+<https://doi.org/10.1016/j.eswa.2011.05.010>
 
 Machado AM, Bazzan ALC (2011) [Self-adaptation in a network of social
 drivers: Using random Boolean
