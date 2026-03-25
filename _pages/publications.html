@@ -9,8 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %} -->
 
-
-{{ site.pages | where: "name", "abntours.md" | first.content }}
+{% assign pubs_page = site.pages | where: "name", "abntours.md" | first %}
  
  
 <!-- {% include base_path %} --> 
