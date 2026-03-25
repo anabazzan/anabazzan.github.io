@@ -1058,9 +1058,6 @@ Problem](https://www.inf.ufrgs.br/~bazzan/downloads/abs_ECMS_0082.pdf).
 In: Burczynski T, Kolodziej J, Byrski A, Carvalho M (eds) Proc. Of the
 agent-based simulation (ABS / ECMS). ECMS, Krakow
 
-Hallmann HV (2011) [Comparação entre softwares simuladores de
-trânsito](http://hdl.handle.net/10183/36891)
-
 Heinen MR, Bazzan ALC, Engel PM (2011) [Dealing with continuous-state
 reinforcement learning for intelligent control of traffic
 signals](http://dx.doi.org/10.1109/ITSC.2011.6083107). In: Proceedings
@@ -1431,26 +1428,20 @@ formation](http://www.inf.ufrgs.br/maslab/pergamus/pubs/enia2007OliveiraBazzan.z
 In: Castro Dutra I de, Choren R, Oliveira CMGM de (eds) Anais do VI
 encontro nacional de inteligência artificial (ENIA). SBC, pp 1003–1112
 
-Wainer J, Ferreira PR Jr., Constantino ER (2007) Scheduling meetings
-through multi-agent negotiations. Decision Support Systems 44:285–297
-
 2006
 ====
 Bazzan ALC, Junges R (2006a) [Traffic network equilibrium using
-congestion tolls: A case
-study](https://www.inf.ufrgs.br/~bazzan/downloads/WS28ATT.pdf). In:
+congestion tolls: A case study](https://www.inf.ufrgs.br/~bazzan/downloads/WS28ATT.pdf). In:
 Bazzan ALC, Chaib-Draa B, Klüegl F, Ossowski S (eds) Proceedings of the
 4th workshop on agents in traffic and transportation. pp 1–8
 
 Bazzan ALC, Junges R (2006b) [Congestion tolls as utility alignment
-between agent and system
-optimum](https://www.inf.ufrgs.br/maslab/pergamus/pubs/bazzan&Junges2006.pdf).
+between agent and system optimum](https://www.inf.ufrgs.br/maslab/pergamus/pubs/bazzan&Junges2006.pdf).
 In: aamas06eds (ed) Proceedings of the fifth int. Joint conference on
 autonomous agents and multiagent systems. ACM Press, pp 126–128
 
 Ferreira PR Jr., Bazzan ALC (2006a) [Self-organization of agents to
-solve machine sequencing
-problems](https://www.inf.ufrgs.br/maslab/pergamus/pubs/alaamasPaulo.pdf.zip).
+solve machine sequencing problems](https://www.inf.ufrgs.br/maslab/pergamus/pubs/alaamasPaulo.pdf.zip).
 In: Panait L, Sen S, Alonso E (eds) Workshop on adaptation and learning
 in autonomous agents and multiagent systems (ALAAMAS). pp 70–75
 
@@ -1512,10 +1503,6 @@ information](https://www.inf.ufrgs.br/~bazzan/downloads/lamas38980115.pdf.gz).
 In: Tuyls K, Hoen PJ, Verbeeck K, Sen S (eds) Proceedings of the
 international workshop on learning and adaptation in MAS (LAMAS 2005).
 pp 115–128
-
-Ferreira PR Jr. (2006) [Estrutura organizacional emergente em sistemas
-multiagentes](https://www.inf.ufrgs.br/maslab/pergamus/pubs/propostaFerreira.pdf.zip).
-Universidade Federal do Rio Grande do Sul - UFRGS
 
 Lorenzi F, Bazzan ALC, Abel M (2006) [An architecture for a multiagent
 recommender system in travel recommendation
