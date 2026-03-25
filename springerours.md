@@ -1078,12 +1078,6 @@ networks](https://www.inf.ufrgs.br/~bazzan/downloads/p33.pdf). In:
 Müller-Schloer C, Schmeck H, Ungerer T (eds) Proc. Of the workshop on
 organic computing (OC 11). ACM, pp 33–40
 
-Mendoza MR (2011) [A study on machine learning methods for the reverse
-engineering of genetic regulatory
-networks](https://www.inf.ufrgs.br/maslab/pergamus/pubs/TI-MarianaMendoza.pdf).
-Trabalho Individual no. 1364 (Doutorado em Computa\c c\\ao), Instituto
-de Informática, UFRGS
-
 Mendoza MR, Bazzan ALC (2011a) [A study on the effects of
 reputation-based decision on the dynamics of public goods game with
 punishment, signaling and gossiping
