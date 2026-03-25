@@ -1104,10 +1104,8 @@ of the ninth international conference on autonomous agents and
 multi-agent systems. IFAAMAS: International Foundation for Autonomous
 Agents and Multiagent Systems, Toronto, pp 1429–1430
 
-Bazzan ALC (2010a) [IA multiagente: Mais inteligência, mais
-desafios](http://www.inf.ufrgs.br/~bazzan/downloads/cr_jai_masai_main_noh.pdf).
-In: Meira W Jr., Carvalho ACPLF de (eds) Atualizações em informática
-2010. PUC-Rio, Rio de Janeiro, pp 111–159
+Bazzan ALC (2010a) [IA multiagente: Mais inteligência, mais desafios](http://www.inf.ufrgs.br/~bazzan/downloads/cr_jai_masai_main_noh.pdf).
+In: Meira W Jr., Carvalho ACPLF de (eds) Atualizações em informática 2010. PUC-Rio, Rio de Janeiro, pp 111–159
 
 Bazzan ALC, Amarante M de B do, Sommer T, Benavides AJ (2010a) [ITSUMO:
 An agent-based simulator for ITS
