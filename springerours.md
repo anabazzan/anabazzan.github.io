@@ -321,7 +321,7 @@ workshop on agents in traffic and transportation (ATT 2020).
 CEUR-WS.org, pp 55–62
 
 2019
-----
+====
 Chamby-Diaz JC, Bazzan ALC (2019) [Identifying traffic event types from
 Twitter by multi-label
 classification](https://doi.org/10.1109/BRACIS.2019.00144). In: 2019 8th
@@ -369,6 +369,8 @@ learning-based multi-agent framework applied for solving routing and
 scheduling problems. Expert Syst Appl 131:148–171.
 <https://doi.org/10.1016/j.eswa.2019.04.056>
 
+2018
+====
 Chamby-Diaz JC, Recamonde-Mendoza M, Bazzan ALC, Grunitzki R (2018)
 [Adaptive incremental Gaussian mixture network for non-stationary data
 stream classification](https://doi.org/10.1109/IJCNN.2018.8489049). In:
@@ -454,6 +456,8 @@ charging station placement based on game theoretical framework. IEEE
 Trans Intelligent Transportation Systems 19:2493–2504.
 <https://doi.org/10.1109/TITS.2017.2754382>
 
+2017
+====
 Grunitzki R, Bazzan ALC (2017) [Comparing two multiagent reinforcement
 learning approaches for the traffic assignment
 problem](https://www.researchgate.net/publication/320730532_Comparing_Two_Multiagent_Reinforcement_Learning_Approaches_for_the_Traffic_Assignment_Problem).
@@ -552,6 +556,8 @@ agent-based simulations: A DSL for environment modeling. In: Proceedings
 of the IEEE computer software and applications conference (COMPSAC
 2017). Torino, pp 170–179
 
+2016
+====
 Hasan MR, Bazzan ALC, Friedman E, Raja A (2016) [A multiagent solution
 to overcome selfish routing in transportation
 networks](https://doi.org/10.1109/ITSC.2016.7795856). In: 2016 IEEE 19th
