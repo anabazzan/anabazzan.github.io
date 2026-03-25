@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 ALEGRE, Lucas N.; BAZZAN, Ana L. C.; ROIJERS, Diederik M.; NOWÉ, Ann; SILVA, Bruno C. da. Generalized policy improvement for efficient and robust multi-objective reinforcement learning. **Autonomous Agents and Multiagent Systems (JAAMAS)**, 2026.
 
 BAZZAN, A. L. C. Artificial intelligence in transportation: A meta review. **SN Computer Science**, vol. 7, no. 2, 2026. <https://doi.org/10.1007/s42979-025-04530-z>.
