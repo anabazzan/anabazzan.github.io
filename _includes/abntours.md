@@ -5,6 +5,9 @@ ALEGRE, Lucas N.; BAZZAN, Ana L. C.; ROIJERS, Diederik M.; NOWÉ, Ann; SILVA, Br
 
 BAZZAN, A. L. C. Artificial intelligence in transportation: A meta review. **SN Computer Science**, vol. 7, no. 2, 2026. <https://doi.org/10.1007/s42979-025-04530-z>.
 
+2025
+====
+
 ALEGRE, Lucas N.; BAZZAN, Ana L. C.; BARRETO, André; DA SILVA, Bruno C. Constructing an optimal behavior basis for the option keyboard. 2025. **Proceedings of the thirty-ninth conference on neural information processing systems (NeurIPS)** \[...\]. \[*S. l.*: *s. n.*\], 2025.
 
 BAZZAN, A. L. C. **Uma visão em rede dos primórdios da comunidade acadêmica em informática e computação no Brasil:
