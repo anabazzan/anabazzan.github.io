@@ -86,6 +86,8 @@ of historical figures: A comparison of <span class="nocase">Bede’s
 Historia Ecclesiastica and
 Wikipedia</span>](https://wikiworkshop.org/2023/papers/WikiWorkshop2023_paper_56.pdf)
 
+2022
+====
 Alegre LN, Bazzan ALC, Silva BC da (2022a) [Optimistic linear support
 and successor features as a basis for optimal policy
 transfer](https://proceedings.mlr.press/v162/alegre22a.html). In:
@@ -156,6 +158,8 @@ control for adaptive traffic systems: A case study. Transportation
 Research Procedia 62:236–244.
 <https://doi.org/10.1016/j.trpro.2022.02.030>
 
+2021
+====
 Alegre LN, Bazzan ALC, Silva BC da (2021a) Quantifying the impact of
 non-stationarity in reinforcement learning-based traffic signal control.
 PeerJ Computer Science 7:e575. <https://doi.org/10.7717/peerj-cs.575>
@@ -228,6 +232,8 @@ Rule-based adaptive traffic signal control: A fourier basis linear
 function approximation for traffic signal control. AI Communications
 89–103. <https://doi.org/10.3233/AIC-201580>
 
+2020
+====
 Ramos G de O, Rădulescu R, Nowé A, Tavares AR (2020a) Toll-based
 learning for minimising congestion under heterogeneous preferences. In:
 An B, Yorke-Smith N, El Fallah Seghrouchni A, Sukthankar G (eds) Proc.
@@ -314,6 +320,8 @@ I, Klügl F, Lujak M, Vizzari G (eds) Proc. Of the 11th international
 workshop on agents in traffic and transportation (ATT 2020).
 CEUR-WS.org, pp 55–62
 
+2019
+----
 Chamby-Diaz JC, Bazzan ALC (2019) [Identifying traffic event types from
 Twitter by multi-label
 classification](https://doi.org/10.1109/BRACIS.2019.00144). In: 2019 8th
