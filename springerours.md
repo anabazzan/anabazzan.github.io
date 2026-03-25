@@ -52,7 +52,7 @@ non-local information. Computer Science and Information Systems
 ====
 Alegre LN, Bazzan ALC, Nowé A, Silva BC da (2023a) Multi-step
 generalized policy improvement by leveraging approximate models. In:
-Advances in neural information processing systems
+Advances in neural information processing systems (NeurIPS)
 
 Alegre LN, Bazzan ALC, Roijers DM, et al (2023b) Sample-efficient
 multi-objective learning via generalized policy improvement
@@ -455,12 +455,6 @@ metric for characterization of traffic networks: An application to the
 route choice problem. In: Proc. Of the 11th workshop-school on agents,
 enviroments, and applications (WESAAC 2017). São Paulo
 
-Ramos G de O (2017) [Minimising regret in route choice (doctoral
-consortium)](http://ifaamas.org/Proceedings/aamas2017/pdfs/p1855.pdf).
-In: Das S, Durfee E, Larson K, Winikoff M (eds) Proc. Of the 16th
-international conference on autonomous agents and multiagent systems
-(AAMAS 2017). IFAAMAS, São Paulo, pp 1855–1856
-
 Ramos G de O, da Silva BC, Bazzan ALC (2017a) [Learning to minimise
 regret in route
 choice](http://ifaamas.org/Proceedings/aamas2017/pdfs/p846.pdf). In: Das
@@ -473,12 +467,6 @@ reinforcement learning library for traffic
 simulation](http://www.inf.ufrgs.br/maslab/pergamus/pubs/Ramos+2017ala.pdf).
 In: Brys T, Harutyunyan A, Mannion P, Subramanian K (eds) Proceedings of
 the adaptive learning agents workshop 2017 (ALA2017). São Paulo
-
-Santos F, Nunes I (2017) [Uma análise quantitativa do esforço de
-desenvolvimento em plataformas de simulações baseadas em
-agentes](https://www.inf.ufrgs.br/maslab/pergamus/pubs/Santos&Nunes2017wesaac.pdf).
-In: Anais do XI workshop-escola de sistemas de agentes, seus ambientes e
-apliCações (WESAAC 2017). São Paulo, pp 125–136
 
 Santos F, Nunes I, Bazzan A (2017a) Model-driven engineering in
 agent-based modeling and simulation: A case study in the traffic signal
@@ -511,9 +499,6 @@ Koster A, Bazzan ALC, Souza M de (2017) Liar liar, pants on fire; or how
 to use subjective logic and argumentation to evaluate information from
 untrustworthy sources. Artif Intell Rev 48:219–235.
 <https://doi.org/10.1007/s10462-016-9499-1>
-
-Oliveira TBF (2017) [Applying bandit algorithms to the route choice
-problem](http://hdl.handle.net/10183/168972)
 
 Santos F, Nunes I, Bazzan A (2017c) Supporting the development of
 agent-based simulations: A DSL for environment modeling. In: Proceedings
