@@ -381,10 +381,6 @@ travel information for minimising the regret of route choice.
 Transportation Research Part C: Emerging Technologies 88:257–271.
 <https://doi.org/10.1016/j.trc.2017.11.011>
 
-Ramos G de O (2018) [Regret minimisation and system-efficiency in route
-choice](http://hdl.handle.net/10183/178665). PhD thesis, Universidade
-Federal do Rio Grande do Sul
-
 Bazzan ALC (2018a) [I will be there for you: Six friends in a
 clique](https://arxiv.org/abs/1804.04408)
 
@@ -394,11 +390,6 @@ multiagent reinforcement
 learning](https://doi.org/10.1007/978-3-319-77538-8_14). In: Sim K,
 Kaufmann P (eds) Applications of evolutionary computation
 (EvoApplications 2018). Springer, Parma, Italy, pp 185–201
-
-Grunitzki R (2018) [A flexible approach for optimal rewards in
-multi-agent reinforcement learning
-problems](http://hdl.handle.net/10183/188230). PhD thesis, Universidade
-Federal do Rio Grande do Sul
 
 Lemos LL, Bazzan ALC, Pasin M (2018) [Co-adaptive reinforcement learning
 in microscopic traffic
@@ -732,11 +723,6 @@ Koster A, Koch F, Bazzan ALC (2014) [Incentivising crowdsourced parking
 solutions](https://doi.org/10.1007/978-3-319-04178-0\_4). In: Nin J,
 Villatoro D (eds) Citizen in sensor networks. Springer International
 Publishing, pp 36–43
-
-Mendoza MR (2014) [Exploring ensemble learning techniques to optimize
-the reverse engineering of gene regulatory
-networks](http://hdl.handle.net/10183/95693). PhD thesis, Instituto de
-Informática, Universidade Federal do Rio Grande do Sul
 
 Pasin M, Perini FS, Bazzan ALC (2014) [Infaestrutura autonômica
 distribuída como suporte para aplicações com demanda
@@ -1150,11 +1136,6 @@ intelligence](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=05670013).
 In: Proceedings of the 22th international conference on tools with
 artificial intelligence. IEEE
 
-Lorenzi F (2010) [Uma abordagem multiagente de recomendação baseada em
-suposições e confiança para cenários
-dinâmicos](http://hdl.handle.net/10183/26969). PhD thesis, Instituto de
-Informática, Universidade Federal do Rio Grande do Sul
-
 Peleteiro A, Burguillo JC, Bazzan ALC (2010) [Enhancing cooperation in
 the IPD with learning and
 coalitions](https://www.ncc.furg.br/bwss2010/downloads/74437_1.pdf). In:
@@ -1214,10 +1195,6 @@ Lorenzi F, Bazzan ALC, Abel M (2009) Multiagent truth maintenance
 applied to a tourism recommender system. In: Sharda N (ed) In tourism
 informatics: Visual travel recommender systems, social communities and
 user interface design. Information Science Reference
-
-Oliveira D de (2009) [Aprendizado em sistemas multiagente através de
-coordenação oportunista](http://hdl.handle.net/10183/26857). PhD thesis,
-Universidade Federal do Rio Grande do Sul
 
 Oliveira D de, Bazzan ALC (2009) Multiagent learning on traffic lights
 control: Effects of using shared information. In: Bazzan ALC, Klügl F
@@ -1304,11 +1281,6 @@ cooperation in a public goods game with
 competition](https://www.inf.ufrgs.br/maslab/pergamus/pubs/BazzanEtAl2008sac.pdf.gz).
 In: Proc. Of the the 23rd annual ACM symposium on applied computing. ACM
 Press, pp 8–12
-
-Ferreira PR Jr. (2008) [Coordenação de sistemas multiagente atuando em
-cenários complexos: Uma abordagem baseada na divisão de trabalho dos
-insetos sociais](http://hdl.handle.net/10183/13653). PhD thesis,
-Universidade Federal do Rio Grande do Sul
 
 Ferreira PR Jr., Bazzan ALC (2008) [Applying a distributed swarm-based
 algorithm to solve instances of the
@@ -1699,10 +1671,6 @@ microscópicos. In: Anais do workshop sobre software livre (WSL), v forum
 internacional de software livre , FISL. Soc. Bras. de Computação (SBC),
 Porto Alegre, RS, pp 80–87
 
-Toyama MC (2004) Estudo sobre modelos de autômatos celulares para
-simulação de movimentos de pedestres: Trabalho individual i.
-Universidade Federal do Rio Grande do Sul
-
 Bazzan ALC, Cavalheiro AP (2003) [Influence of social attachment in a
 small-world network of agents playing the iterated prisoners
 dilemma](https://www.inf.ufrgs.br/~bazzan/swBazzan.ps.gz). In: Parsons
@@ -1730,10 +1698,6 @@ based on personal utility - a testbed for traffic information
 markets](http://portal.acm.org/citation.cfm?id=860636). In: Proceedings
 of the second international joint conference on autonomous agents and
 multi-agent systems (AAMAS). ACM Press, Melbourne, Australia, pp 377–384
-
-Oliveira D de (2003) Estudo comparativo e projeto de um ambiente de
-simulação baseado em agentes. Trabalho Individual (Mestrado em Ci\\ecia
-da Computa\c c~ao), Instituto de Informatica, UFRGS
 
 Oliveira D de, Almeida LB, Ferreira PR Jr., Bazzan ALC (2003) [Estudo de
 insetos sociais e sua aplicação para organizaç ao de sistemas
