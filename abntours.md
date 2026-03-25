@@ -1,6 +1,9 @@
 ---
 layout: none
 ---
+
+2026
+====
 ALEGRE, Lucas N.; BAZZAN, Ana L. C.; ROIJERS, Diederik M.; NOWÉ, Ann;
 SILVA, Bruno C. da. Generalized policy improvement for efficient and
 robust multi-objective reinforcement learning. **Autonomous Agents and
