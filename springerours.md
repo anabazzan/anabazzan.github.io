@@ -647,12 +647,6 @@ similarity-based coalition formation approach for plug-in electric
 vehicles in smart grids. Multiagent and Grid Systems 11:167–187.
 <https://doi.org/10.3233/MGS-150235>
 
-Ramos G de O, Grunitzki R (2015) [An improved learning automata approach
-for the route choice
-problem](https://doi.org/10.1007/978-3-662-46241-6\_6). In: Koch F,
-Meneguzzi F, Lakkaraju K (eds) Agent technology for intelligent mobile
-services and smart societies. Springer, pp 56–67
-
 Ramos G de O, Bazzan ALC (2015) [Towards the user equilibrium in traffic
 assignment using GRASP with path
 relinking](https://doi.org/10.1145/2739480.2754755). In: Proceedings of
@@ -1358,10 +1352,6 @@ DCOP](https://www.inf.ufrgs.br/maslab/pergamus/pubs/JungesBazzan2007eumas.pdf.gz
 In: Proceedings of the 5th european workshop on multiagent systems. pp
 564–579
 
-Lorenzi F (2007) A multiagent knowledge-based recommender approach with
-truth maintenance. In: RecSys07: Proceedings of the 2007 ACM conference
-on recommender systems. ACM, pp 195–198
-
 Lorenzi F, Bazzan ALC, Abel M (2007a) Negotiation for task allocation
 among agents in case-base recommender systems: A swarm-intelligence
 approach. In: Proceedings of the student abstract - on twenty-second
@@ -1537,10 +1527,6 @@ organizations](https://www.inf.ufrgs.br/~bazzan/downloads/jbcsFerreira.pdf.gz).
 Journal of Brazilian Computer Society - JBCS - Special Issue on Agents
 Organizations 11:63–73
 
-Lorenzi F, Ricci F (2005) Case-based recommender systems: A unifying
-view. In: Mobasher B, Anand S (eds) Intelligent techniques for web
-personalization. Springer, pp 89–113
-
 Lorenzi F, Santos D dos, Bazzan ALC (2005a) [Case-based recommender
 system inspired by social
 insects](https://www.inf.ufrgs.br/maslab/pergamus/pubs/lorenzietalenia2005.zip).
@@ -1582,7 +1568,7 @@ sociais e sua aplicação na solução de problemas
 computacionais](https://www.inf.ufrgs.br/maslab/pergamus/pubs/RelatorioProjPesq_insetosV3.zip).
 Universidade Federal do Rio Grande do Sul - UFRGS
 
-Silva BC da, Bazzan ALC, Andriotti GustavoK, Oliveira D de (2005a)
+Silva BC da, Bazzan ALC, Andriotti Gustavo K, Oliveira D de (2005a)
 [ITSUMO: An intelligent transportation system for urban
 mobility](https://www.inf.ufrgs.br/maslab/pergamus/pubs/4-Silva+2005OUTS.pdf.tar.gz).
 In: Proceedings of the optimization of urban traffic systems. Springer,
