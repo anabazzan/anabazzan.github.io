@@ -48,6 +48,8 @@ algorithms for a trip building task: A multi-objective approach using
 non-local information. Computer Science and Information Systems
 21:291–308. <https://doi.org/10.2298/CSIS221210072G>
 
+2023
+====
 Alegre LN, Bazzan ALC, Nowé A, Silva BC da (2023a) Multi-step
 generalized policy improvement by leveraging approximate models. In:
 Advances in neural information processing systems
