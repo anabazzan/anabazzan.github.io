@@ -633,6 +633,8 @@ networks](http://ceur-ws.org/Vol-1678/paper11.pdf). In: Proceedings of
 ninth international workshop on agents in traffic and transportation.
 New York, USA, pp 1–8
 
+2015
+====
 Bazzan ALC, Chira C (2015) [Hybrid evolutionary and reinforcement
 learning approach to accelerate traffic assignment (extended
 abstract)](http://www.aamas2015.com/en/AAMAS_2015_USB/aamas/p1723.pdf).
@@ -712,6 +714,8 @@ Yang Q, Wooldridge M (eds) Proceedings of the twenty-fourth
 international joint conference on artificial intelligence, IJCAI. AAAI
 Press, Buenos Aires, pp 2662–2668
 
+2014
+====
 Grunitzki R, Ramos G de O, Bazzan ALC (2014a) [Individual versus
 difference rewards on reinforcement learning for route
 choice](https://doi.org/10.1109/BRACIS.2014.53). In: Intelligent systems
