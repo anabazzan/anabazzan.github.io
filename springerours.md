@@ -12,6 +12,9 @@ Bazzan ALC (2026) Artificial intelligence in transportation: A meta
 review. SN Computer Science 7:
 <https://doi.org/10.1007/s42979-025-04530-z>
 
+2025
+====
+
 Alegre LN, Bazzan ALC, Barreto A, da Silva BC (2025) Constructing an
 optimal behavior basis for the option keyboard. In: Proceedings of the
 thirty-ninth conference on neural information processing systems
