@@ -10,7 +10,7 @@ author_profile: true
 {% endif %} 
 
  
-{% assign pubs_page = site.pages | where: "name", "springerours" | first %}
+{% assign pubs_page = site.pages | where: "name", "springerours.md" | first %}
 
 {{ pubs_page.content | markdownify }}
  
