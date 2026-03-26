@@ -28,21 +28,32 @@ layout: compress
     {% include scripts.html %}
     
 <!-- this below supposedly allows external links to open in a new tab -->
-    <script>
-document.addEventListener("DOMContentLoaded", function () {
-  const links = document.querySelectorAll("a[href]");
+<script>
+(function () {
+  function fixLinks() {
+    document.querySelectorAll('a[href]').forEach(link => {
+      try {
+        const url = new URL(link.href, window.location.origin);
 
-  links.forEach(link => {
-    const url = new URL(link.href, window.location.origin);
+        if (url.origin !== window.location.origin) {
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+        }
+      } catch (e) {}
+    });
+  }
 
-    // Only affect external links
-    if (url.origin !== window.location.origin) {
-      link.setAttribute("target", "_blank");
-      link.setAttribute("rel", "noopener noreferrer");
-    }
-  });
-});
+  // Run immediately
+  fixLinks();
+
+  // Run again after everything loads (important for Jekyll themes)
+  window.addEventListener("load", fixLinks);
+
+  // Optional: observe DOM changes (for dynamic content)
+  const observer = new MutationObserver(fixLinks);
+  observer.observe(document.body, { childList: true, subtree: true });
+})();
 </script>
-
+    
   </body>
 </html>
