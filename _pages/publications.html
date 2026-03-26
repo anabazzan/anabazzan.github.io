@@ -11,7 +11,11 @@ author_profile: true
 
  
 {% assign pubs_page = site.pages | where: "name", "springerours.md" | first %}
-{{ pubs_page.content | markdownify }}
+<!-- {{ pubs_page.content | markdownify }} -->
+{{ pubs_page.content 
+  | replace: '<a href="http://', '<a target="_blank" rel="noopener noreferrer" href="http://'
+  | replace: '<a href="https://', '<a target="_blank" rel="noopener noreferrer" href="https://'
+}}
 
 <!-- {% include base_path %} --> 
 
