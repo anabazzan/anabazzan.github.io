@@ -22,12 +22,12 @@ Currently, I am a visiting professor at the graduate program in computer science
 
 My research interests include: multiagent systems (MAS) and reinforcement learning (RL); applications of AI and RL in urban mobility, traffic, transportation;  game-theoretic paradigms for coordination of agents (Minority Game, Iterated Prisoner's Dilemma, Public Goods Game, Congestion Games, etc.); agent-based modeling and simulation; complex systems; network science; applications of network science and AI in humanities (in particular, History).
 
-In 2025 I finished a second graduation: a bachelor in History, from UFRGS.
+In 2025 I finished a second graduation: a bachelor in History, from UFRGS. My [Bachelor thesis](http://hdl.handle.net/10183/300612){:target="_blank"} addressed the network of computer scientist pioneers who created the graduate programs in computer science in Brazil.
 
 Publications
 ------
-Here is my [CV Lattes](https://lattes.cnpq.br/0978837964647017)
-You can also find my publications at [Google Scholar]([http](https://scholar.google.com/citations?hl=en&authuser=1&user=K6Z40w0AAAAJ)) or see them [here](https://anabazzan.github.io/publications/)
+Here is my [CV Lattes](https://lattes.cnpq.br/0978837964647017){:target="_blank"}
+You can also find my publications at [Google Scholar]([http](https://scholar.google.com/citations?hl=en&authuser=1&user=K6Z40w0AAAAJ)) or see them [here](https://anabazzan.github.io/publications/){:target="_blank"}
 
 
 Awards and Facts
