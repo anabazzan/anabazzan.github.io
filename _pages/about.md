@@ -26,7 +26,7 @@ In 2025 I finished a second graduation: a bachelor in History, from UFRGS. My [B
 
 Publications
 ------
-Here is my [CV Lattes](https://lattes.cnpq.br/0978837964647017){:target="_blank"}
+Here is my [CV Lattes](https://lattes.cnpq.br/0978837964647017){:target="_blank"}. 
 You can also find my publications at [Google Scholar]([http](https://scholar.google.com/citations?hl=en&authuser=1&user=K6Z40w0AAAAJ)) or see them [here](https://anabazzan.github.io/publications/){:target="_blank"}
 
 
