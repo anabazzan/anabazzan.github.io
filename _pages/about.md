@@ -32,7 +32,7 @@ You can also find my publications at [Google Scholar]([http](https://scholar.goo
 
 Awards and Facts
 ------
-* From April 2006 to March 2007 I had an appointment at the University of Würzburg (Germany) as a fellow of the Alexander von Humboldt Stiftung. I was again a fellow from this foundation in 2014 and 2018 (Humboldt University, Berlin and Technical University Berlin).
+* From April 2006 to March 2007 I had an appointment at the University of Würzburg (Germany) as a fellow of the Alexander von Humboldt Stiftung. As a fellow from this foundation I also spent a sabbatical at the Humboldt University, Berlin and at the Technical University Berlin in 2014 and 2018.
 * In 2021-22 I spent one year as fellow of the Käte Hamburguer Kolleg at the RWTH (Technical University Aachen).
 * In 2024-25 I spent 6 months as fellow of the CAIS Kolleg (Bochum).
 * I served as general co-chair of AAMAS 2014, the premier conference on autonomous agents and multiagent systems, held in Paris.
