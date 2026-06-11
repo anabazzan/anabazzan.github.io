@@ -10,9 +10,9 @@ redirect_from:
 
 Short Vitae
 ------
-I received my PhD in 1997 from the Informatik Fakultät at the Univ. of Karlsruhe (IPR institute) in Karlsruhe, Germany, funded by the Brazilian government (CNPq).
+I received my PhD in 1997 from the Informatik Fakultät at the Univ. of Karlsruhe (now KIT) in Karlsruhe, Germany, funded by the Brazilian government (CNPq).
 
-My previous degrees are in Engineering from the Politechnic School (POLI) of the Univ. of São Paulo in São Paulo, Brazil, and MSc. in Computer Science from the Institute of Informatics at the Univ. of Rio Grande do Sul in Porto Alegre, Brazil.
+My previous degrees are in Engineering from the Politechnic School (POLI) of the Univ. of São Paulo in Brazil, and MSc. in Computer Science from the Institute of Informatics at the Univ. of Rio Grande do Sul in Porto Alegre, Brazil.
 
 From 1997 to 1998, I had a postdoc research associate position in the Multi-Agent Systems Laboratory at the University of Massachusetts in Amherst, under supervision of Prof. Victor Lesser. There, I was involved in the research project "Enhancing Survivability with Distributed Coordination" (part of DARPA/ITO's Information Survivability program) on Survavibility, Intrusion Detection, and Diagnosis.
 
@@ -22,7 +22,7 @@ Currently, I am a visiting professor at the graduate program in computer science
 
 My research interests include: multiagent systems (MAS) and reinforcement learning (RL); applications of AI and RL in urban mobility, traffic, transportation;  game-theoretic paradigms for coordination of agents (Minority Game, Iterated Prisoner's Dilemma, Public Goods Game, Congestion Games, etc.); agent-based modeling and simulation; complex systems; network science; applications of network science and AI in humanities (in particular, History).
 
-In 2025 I finished a second graduation: a bachelor in History, from UFRGS. My [Bachelor thesis](http://hdl.handle.net/10183/300612){:target="_blank"} addressed the network of computer scientist pioneers who created the graduate programs in computer science in Brazil.
+In 2025 I finished a second graduation: bachelor in History, from UFRGS. My [Bachelor thesis](http://hdl.handle.net/10183/300612){:target="_blank"} (in Portuguese) addressed the network of computer scientist pioneers who created the graduate programs in computer science in Brazil.
 
 Publications
 ------
