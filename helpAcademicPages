@@ -10,3 +10,8 @@ Locations of key files/directories
 
 publications: _pages/publications.html
 lista de publications: file springeours.md
+
+help with html: 
+Open the linked document in a new window or tab:
+ <a href="xyz.html" target="_blank"> Link </a>
+
