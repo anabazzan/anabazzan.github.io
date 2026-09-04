@@ -18,7 +18,7 @@ From 1997 to 1998, I had a postdoc research associate position in the Multi-Agen
 
 From 1999 on I held various positions at the Institute of Informatics at UFRGS (Universidade Federal do Rio Grande do Sul, which has been consistently ranked among the top 5 universities in Brazil): assistant professor (until 2006), associate professor (until 2016),  full professor (until 2024, when I retired) and visiting professor at the graduate program in computer science ([PPGC](https://www.inf.ufrgs.br/ppgc/en){:target="_blank"}) until 2026. At UFRGS I also led the research group on Artificial Intelligence.
 
-Currently, I am a visiting researcher at ([Escola Politécnica](https://www.poli.usp.br/){:target="_blank"}). 
+Currently, I am a visiting researcher at [Escola Politécnica](https://www.poli.usp.br/){:target="_blank"}. 
 
 My research interests include: multiagent systems (MAS) and reinforcement learning (RL); applications of AI and RL in urban mobility, traffic, transportation;  game-theoretic paradigms for coordination of agents (Minority Game, Iterated Prisoner's Dilemma, Public Goods Game, Congestion Games, etc.); agent-based modeling and simulation; complex systems; network science; applications of network science and AI in humanities (in particular, History).
 
@@ -27,7 +27,7 @@ In 2025 I finished a second graduation: bachelor in History, from UFRGS. My [Bac
 Publications
 ------
 Here is my [CV Lattes](https://lattes.cnpq.br/0978837964647017){:target="_blank"}. 
-You can also find my publications at [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=K6Z40w0AAAAJ){:target="_blank"} or see them [here](https://anabazzan.github.io/publications/){:target="_blank"}. 
+You can also find my publications at [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=K6Z40w0AAAAJ){:target="_blank"} or see them [here](https://anabazzan.github.io/publications/){:target="_blank"}.
 
 
 Awards and Facts
