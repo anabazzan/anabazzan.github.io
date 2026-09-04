@@ -26,9 +26,9 @@ author:
   avatar           : "caricaturaBW_ab.png"
   name             : "Ana Bazzan"
   pronouns         : "she/her"  
-  bio              : "Guest Professor (UFRGS), Brazil"
+  bio              : "Guest Researcher (Escola Politécnica, USP), Brazil"
   location         : "Earth"
-  employer         : "UFRGS"
+  employer         : # URL "UFRGS"
   uri              : # URL
   email            : "bazzan.inf@gmail.com" 
 
