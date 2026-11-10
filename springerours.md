@@ -1565,6 +1565,8 @@ F, Dignum V, Koenig S, et al. (eds) Proceedings of the fourth
 international joint conference on autonomous agents and multiagent
 systems. ACM, pp 313–319
 
+2004
+====
 Batista GEAPA, Bazzan ALC, Monard MC (2004a) Balancing training data for
 automated annotation of keywords: A case study. Revista Tecnologia da
 Informação 3:15–20
@@ -1625,6 +1627,8 @@ microscópicos. In: Anais do workshop sobre software livre (WSL), v forum
 internacional de software livre , FISL. Soc. Bras. de Computação (SBC),
 Porto Alegre, RS, pp 80–87
 
+2003
+====
 Bazzan ALC, Cavalheiro AP (2003) [Influence of social attachment in a
 small-world network of agents playing the iterated prisoners
 dilemma](https://www.inf.ufrgs.br/~bazzan/swBazzan.ps.gz). In: Parsons
@@ -1658,6 +1662,8 @@ insetos sociais e sua aplicação para organizaç ao de sistemas
 multiagentes](https://www.inf.ufrgs.br/maslab/pergamus/pubs/RelatorioProjPesqFinal.zip).
 Instituto de Informática, UFRGS
 
+2002
+====
 Andriotti GK, Bazzan ALC (2002) An object-oriented microscopic traffic
 simulator. In: Proceedings of the 28th latin-american conference on
 informatics, CLEI. Montevideo, Uruguay
@@ -1709,6 +1715,8 @@ in a two route scenario using agent based
 simulation](https://www.inf.ufrgs.br/~bazzan/downloads/TRC_10_5_6_399.pdf.gz).
 Transportation Research Part C: Emerging Technologies 10:73–91
 
+2001
+====
 Bazzan ALC, Bordini RH (2001) [A framework for the simulation of agents
 with emotions: Report on experiments with the iterated prisoners
 dilemma](https://www.inf.ufrgs.br/maslab/emotions/). In: Müller JP,
@@ -1719,6 +1727,8 @@ Bazzan ALC (2001) Coordenação de agentes com uso de técnicas de teoria
 dos jogos. In: Jornada de atualização em inteligência artificial. SBC,
 Fortaleza, pp 3–43
 
+2000
+====
 Bazzan ALC, Bordini RH (2000) Evolving agents with moral sentiments in
 an iterated prisoners dilemma exercise. In: Game theoretic and decision
 theoretic agents. Boston
@@ -1772,6 +1782,8 @@ Wahle J, Bazzan ALC, Klügl F, Schreckenberg M (2000d) [Decision dynamics
 in a traffic scenario](http://dx.doi.org/10.1016/S0378-4371(00)00510-0).
 Physica A 287:669–681
 
+<2000
+=====
 Bazzan ALC, Bordini RH, Campbell JA (1999a) [Moral sentiments in
 multi-agent
 systems](http://www.inf.ufrgs.br/~bazzan/downloads/atal98_1555_113.pdf.gz).
